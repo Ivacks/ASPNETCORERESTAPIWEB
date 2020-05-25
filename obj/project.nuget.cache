@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4qYu0yuTKLsPeS6qQgHkZN0TjOqvBs0yLODX3oaBnLNTn3kiV49B8Ik8t1Td4StItzzpfE9vLB5cdW/9C4Q1Bg==",
+  "dgSpecHash": "fur9YUBgxf3uuo20A9317yCz5MaGEcCucs8jIY/RMDHS1vTALvLPnoN373zlzw7puLUttR3x5evUICr2JGQIsQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\desktop\\NETCORE\\Commander\\Commander.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
